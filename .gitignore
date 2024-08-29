@@ -27,6 +27,8 @@ coverage
 *.sln
 *.sw?
 
+*.tsbuildinfo
+
 # Custom
 .env
 *.backup*
