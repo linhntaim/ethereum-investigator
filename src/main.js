@@ -1,4 +1,4 @@
-import '@/resources/assets/main.css'
+import '@/resources/assets/scss/styles.scss'
 
 import {app} from '@/bootstrap/app'
 
